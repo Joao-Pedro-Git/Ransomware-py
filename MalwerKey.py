@@ -4,6 +4,7 @@ from cryptography.fernet import Fernet
 arquivos = []
 
 key = Fernet.generate_key()
+
 with open('chave.key' , 'wb') as chave:
     chave.write(key)
 

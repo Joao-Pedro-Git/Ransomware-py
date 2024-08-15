@@ -1,2 +1,2 @@
 # Ransomware-py
-Ransomware feito em python, com poucas linhas de codigo.
+Ransomware feito em python, visando saber a base de um ransmware.
